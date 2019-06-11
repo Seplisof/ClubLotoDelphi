@@ -135,6 +135,7 @@ type
     StyleBook1: TStyleBook;
     GroupBox4: TGroupBox;
     GroupBox5: TGroupBox;
+    Button6: TButton;
     procedure Button1Click(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure CheckBox1Click(Sender: TObject);
